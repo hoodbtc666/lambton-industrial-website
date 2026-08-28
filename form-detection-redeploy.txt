@@ -1,0 +1,1 @@
+Netlify Forms detection enabled. Redeploy trigger: 2026-08-27.
